@@ -1,0 +1,13 @@
+#container table{
+    width: 100%;
+}
+
+
+#container table tr th{
+    border: 1px solid;
+    margin: 35px;
+}
+#container table tr td{
+    border: 1px solid;
+    margin: 35px;
+}
